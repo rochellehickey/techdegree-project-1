@@ -48,16 +48,19 @@ a:hover {
 .nav .name {
     display: block;
     margin-right: auto;
-    color: white;
+    color: #cfecce;
 }
 .nav li {
   padding: 5px 10px 10px 10px;
 }
 .nav a {
+  color: #cfecce;
   transition: all .5s;
+  text-decoration: none;
 }
 .nav a:hover {
-  color: white
+  border: 1px solid #cfecce;
+  padding: 5px;
 }
 
 header {
