@@ -11,6 +11,11 @@ body {
   color: #222;
   background: #cfecce;
 }
+
+  h2 {
+    color: #0f6586;
+  }
+
 /* Link Styles */
 
 a {
@@ -206,7 +211,3 @@ a.social:hover {
   }
 
 }
-
-  h2 {
-    color: #0f6586;
-  }
