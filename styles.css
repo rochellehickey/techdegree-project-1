@@ -59,8 +59,7 @@ a:hover {
   text-decoration: none;
 }
 .nav a:hover {
-  border: 1px solid #cfecce;
-  padding: 5px;
+  color: white;
 }
 
 header {
@@ -128,6 +127,10 @@ ul.skills {
 
 .skills li:nth-child(odd) {
   background: #79bcb2;
+}
+
+.img-wrap {
+  float: left;
 }
 
 footer {
